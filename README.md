@@ -60,7 +60,7 @@ As a fresher, I aim to apply my knowledge of data analytics, machine learning, a
 ## 📫 Connect With Me
 
 - **GitHub:** [soniyashaik29](https://github.com/soniyashaik29)
-- **Portfolio Repository:** [Mine-Portfolio](https://github.com/soniyashaik29/Mine-Portfolio)
+- **Portfolio Repository:** [Mine-Portfolio](https://soniyashaik29.github.io/Mine-Portfolio/)
 
 ---
 
